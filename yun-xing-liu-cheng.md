@@ -1,4 +1,4 @@
 # 运行流程
 
-![](/assets/Atlas of fruit.png)
+![](assets/Atlas of fruit.png)
 
